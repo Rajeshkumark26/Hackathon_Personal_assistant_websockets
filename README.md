@@ -1,4 +1,4 @@
-# Hackathon_Speech_recognition_BOT
+# Hackathon_Personal_assistant_using_websockets
 
 ## Contacts:
 * **Created by:[Rajesh Kumar K]**
